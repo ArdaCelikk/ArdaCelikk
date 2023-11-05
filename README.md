@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda Çelik</h1>
 <h3 align="center">A passionate Web developer from Cyprus</h3>
 
-- 🔭 I’m currently working on [e-commerce](https://github.com/ArdaCelikk/e-commerce.git)
+- 🔭 I’m currently working on [celikstagram-react](https://github.com/ArdaCelikk/celikstagram-react.git)
 
 - 🌱 I’m currently learning **Next JS**
 
